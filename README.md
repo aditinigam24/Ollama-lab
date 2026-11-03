@@ -1,3 +1,4 @@
+<!-- README.md -->
 # OLLAMA LAB — Your First Journey Into Local AI
 
 Interactive Ollama workshop site (React + Vite + TypeScript + Tailwind + Framer Motion + React Three Fiber).
